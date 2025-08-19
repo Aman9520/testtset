@@ -1,4 +1,4 @@
-name: Greetings
+name: <h1>Greetings
 
 on: [pull_request, issues]
 
